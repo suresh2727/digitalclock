@@ -1,1 +1,1 @@
-Digital clock in react app .
+Digital clock in react App.
